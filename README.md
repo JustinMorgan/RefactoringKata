@@ -1,8 +1,8 @@
-#Background
+# Background
 
 This is a code kata forked from https://github.com/OdeToCode. The original is at https://github.com/OdeToCode/Katas/tree/master/Refactoring/CS.
 
-#Original instructions
+# Original instructions
 Here is the bad news: the new developer you hired has written some terrible, atrocious code. 
 No one can understand what it does. 
 
