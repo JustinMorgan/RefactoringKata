@@ -1,5 +1,0 @@
-C:\code\CodeKatas\Refactoring\CS\Algorithm\Algorithm\bin\Debug\Algorithm.dll
-C:\code\CodeKatas\Refactoring\CS\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
-C:\code\CodeKatas\Refactoring\CS\Algorithm\Algorithm\obj\Debug\Algorithm.dll
-C:\code\CodeKatas\Refactoring\CS\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
-C:\code\CodeKatas\Refactoring\CS\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
