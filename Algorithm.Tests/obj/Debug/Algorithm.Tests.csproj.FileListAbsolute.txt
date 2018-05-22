@@ -1,0 +1,9 @@
+C:\code\CodeKatas\Refactoring\CS\Algorithm.Tests\bin\Debug\Algorithm.Tests.dll
+C:\code\CodeKatas\Refactoring\CS\Algorithm.Tests\bin\Debug\Algorithm.Tests.pdb
+C:\code\CodeKatas\Refactoring\CS\Algorithm.Tests\bin\Debug\Algorithm.dll
+C:\code\CodeKatas\Refactoring\CS\Algorithm.Tests\bin\Debug\xunit.dll
+C:\code\CodeKatas\Refactoring\CS\Algorithm.Tests\bin\Debug\Algorithm.pdb
+C:\code\CodeKatas\Refactoring\CS\Algorithm.Tests\bin\Debug\xunit.xml
+C:\code\CodeKatas\Refactoring\CS\Algorithm.Tests\obj\Debug\Algorithm.Tests.csprojResolveAssemblyReference.cache
+C:\code\CodeKatas\Refactoring\CS\Algorithm.Tests\obj\Debug\Algorithm.Tests.dll
+C:\code\CodeKatas\Refactoring\CS\Algorithm.Tests\obj\Debug\Algorithm.Tests.pdb
