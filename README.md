@@ -1,6 +1,6 @@
 # Background
 
-This is a code kata from https://github.com/OdeToCode. The original is at https://github.com/OdeToCode/Katas/tree/master/Refactoring/CS.
+This is a code kata from [OdeToCode](https://github.com/OdeToCode). The original is at https://github.com/OdeToCode/Katas/tree/master/Refactoring/CS.
 
 # Original instructions
 Here is the bad news: the new developer you hired has written some terrible, atrocious code. 
