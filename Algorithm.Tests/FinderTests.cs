@@ -12,7 +12,7 @@ namespace Algorithm.Test
             var list = new List<Person>();
             var finder = new Finder(list);
 
-            var result = finder.Find(SearchType.SmallestDifference);
+            var result = finder.FindAgeRange(SearchType.SmallestDifference);
 
             Assert.Null(result.PersonA);
             Assert.Null(result.PersonB);
@@ -24,7 +24,7 @@ namespace Algorithm.Test
             var list = new List<Person>() { sue };
             var finder = new Finder(list);
 
-            var result = finder.Find(SearchType.SmallestDifference);
+            var result = finder.FindAgeRange(SearchType.SmallestDifference);
 
             Assert.Null(result.PersonA);
             Assert.Null(result.PersonB);
@@ -36,7 +36,7 @@ namespace Algorithm.Test
             var list = new List<Person>() { sue, greg };
             var finder = new Finder(list);
 
-            var result = finder.Find(SearchType.SmallestDifference);
+            var result = finder.FindAgeRange(SearchType.SmallestDifference);
 
             Assert.Same(sue, result.PersonA);
             Assert.Same(greg, result.PersonB);
@@ -48,7 +48,7 @@ namespace Algorithm.Test
             var list = new List<Person>() { greg, mike };
             var finder = new Finder(list);
 
-            var result = finder.Find(SearchType.GreatestDifference);
+            var result = finder.FindAgeRange(SearchType.GreatestDifference);
 
             Assert.Same(greg, result.PersonA);
             Assert.Same(mike, result.PersonB);
@@ -60,7 +60,7 @@ namespace Algorithm.Test
             var list = new List<Person>() { greg, mike, sarah, sue };
             var finder = new Finder(list);
 
-            var result = finder.Find(SearchType.GreatestDifference);
+            var result = finder.FindAgeRange(SearchType.GreatestDifference);
 
             Assert.Same(sue, result.PersonA);
             Assert.Same(sarah, result.PersonB);
@@ -72,7 +72,7 @@ namespace Algorithm.Test
             var list = new List<Person>() { greg, mike, sarah, sue };
             var finder = new Finder(list);
 
-            var result = finder.Find(SearchType.SmallestDifference);
+            var result = finder.FindAgeRange(SearchType.SmallestDifference);
 
             Assert.Same(sue, result.PersonA);
             Assert.Same(greg, result.PersonB);

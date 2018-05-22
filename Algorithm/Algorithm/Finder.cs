@@ -12,7 +12,13 @@ namespace Algorithm
             _people = people;
         }
 
-        public PersonPair Find(SearchType searchType)
+        // Note: As method names go, this one isn't great. It doesn't make clear what we're trying to do, which is find 
+        // information about the age relationships in the set. On the other hand, it's hard to imagine an intuitive
+        // name that covers both operations this method makes available.
+        // The name of the class is even worse, but since this is just an example and the class only has one method, I've 
+        // left it as-is. It's not clear what the scope of this class is supposed to be, so naming it would just be
+        // speculating on an imaginary theme.
+        public PersonPair FindAgeRange(SearchType searchType)
         {
             PersonPair result;
 
